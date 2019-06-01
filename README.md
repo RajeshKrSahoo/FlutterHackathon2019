@@ -1,6 +1,8 @@
 # Namma ChatOn
 
 Chaton is a simple chat service which has features to translate the incoming messages in your native language.
+A bridge to fill the gap for the two different linguistic people to talk without any hussle with their own comfortable language.
+
 
 #Screen Shots
 ![alt text](https://raw.githubusercontent.com/pavanmt/FlutterHackathon2019/screen_shots/Screenshot_2019-06-01-18-19-59-883_com.flutterhackathon.chat_on.png)
