@@ -1,6 +1,4 @@
 # Team: NammaChatON- Internation Flutter Hackathon- Bangalore
-----------------------
-By Pavan MT, Rajesh Kumar Sahoo and Suhas
 # Namma ChatOn
 
 
