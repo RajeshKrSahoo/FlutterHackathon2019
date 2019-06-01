@@ -1,9 +1,20 @@
+#Team: NammaChatON- Internation Flutter Hackathon- Bangalore
+----------------------
+By Pavan MT, Rajesh Kumar Sahoo and Suhas
 # Namma ChatOn
 
-Chaton is a simple chat service which has features to translate the incoming messages in your native language.
 
-#Screen Shots
-![alt text](https://raw.githubusercontent.com/pavanmt/FlutterHackathon2019/screen_shots/Screenshot_2019-06-01-18-19-59-883_com.flutterhackathon.chat_on.png)
+
+Namma ChatOn is a simple chat service which has features to translate the incoming messages into user prefered native language in a real time. The basic idea of the app is to eliminate the language barrier between the users communication. The user can wish to communicate with his/her own language while the other can recieve in his/her own language. This app has a wider scope to improvise in supporting multiple source and translation language.
+
+# Screen Shots
+
+![Translation Screen](screen_shots/flutter_hac1.png)
+
+![Translation Screen](screen_shots/Screenshot_2019-06-01-18-21-53-587_com.flutterhackathon.chat_on.png)
+
+![Translation Screen](screen_shots/Screenshot_2019-06-01-18-43-24-387_com.flutterhackathon.chat_on.png)
+
 
 ## Getting Started
 
